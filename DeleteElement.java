@@ -22,13 +22,7 @@ public class DeleteElement {
         {
             System.out.println("\nour size is :"+size+" please choose position according to size");
 
-        }
-      /* else
-        {
-        	
-            System.out.println("enter value:");
-            num=sc.nextInt();
-        }*/
+	}
             
             //shifting the elements
             for(i=pos-1;i<size-1;i++)
